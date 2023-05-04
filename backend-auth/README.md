@@ -15,6 +15,6 @@ The backend uses the serverless-framework to depploy this application, so you ne
 
 2. Change the bucketName under custom to something unique globally, make note of the bucketName
 
-3. If you have aws configured as default on your system, just run "serverless deploy"
+3. If you have aws configured as default on your system, run "npm install" and "serverless deploy"
 
 4. After deployment take the api url and add to the .env of your frontend before running "npm run build"
