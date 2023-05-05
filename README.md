@@ -4,6 +4,7 @@ This is a simple user authentication system built with React and Serverless back
 
 ### Architecture
 
+![alt text](https://adetunjiaramide.s3.amazonaws.com/images/serverless_login_archictecture.jpg)
 Frontend - Hosted on AWS S3
 API - API Gateway used to define the routes
 Backend - Lambda was used to execute code
